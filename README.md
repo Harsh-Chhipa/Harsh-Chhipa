@@ -15,7 +15,7 @@
   <br/>
 
   <!-- Connect Links -->
-  <a href="https://linkedin.com" target="_blank">
+  <a href="[https://linkedin.com" target="_blank](https://www.linkedin.com/in/harsh-chhipa-308052327/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:your-email@gmail.com">
