@@ -9,7 +9,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA44F&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Harsh+Chhipa;Manual+%26+Automation+QA+Engineer;Zero+Bug+Tolerance!" alt="Typing SVG" />
   </a>
-
+  
   <p>Dedicated QA Engineer passionate about delivering high-quality software through rigorous manual testing and robust automation frameworks.</p>
 
   <br/>
