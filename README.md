@@ -15,10 +15,10 @@
   <br/>
 
   <!-- Connect Links -->
-  <a href="(https://www.linkedin.com/in/harsh-chhipa-308052327/)">
+  <a href="https://www.linkedin.com/in/harsh-chhipa-308052327/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="harshchhipa169@gmail.com">
+  <a href="mailto:harshchhipa169@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
